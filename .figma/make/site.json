@@ -1,0 +1,14 @@
+{
+  "title": "Still Essence | Johannesburg Photography",
+  "description": "Still Essence is a Johannesburg photography studio capturing portraits, lifestyle, events and editorial moments with intention.",
+  "robots": {
+    "index": true
+  },
+  "openGraph": {
+    "image": "https://images.unsplash.com/photo-1541519481457-763224276691?w=1200&h=630&fit=crop&auto=format&q=80"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
